@@ -1,2 +1,2 @@
-https://github.com/WilEgRo/Single-Page-CV.git
+https://github.com/WilEgRo/Single-Page-CV
 
